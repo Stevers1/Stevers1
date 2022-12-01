@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Esteban Andres Serrano Berber or you can call me Steve! 
 - 👀 I’m currently working and learning to become the best front end developer for you!
 - 🌱 I’m currently learning React, Advance Git and much more!
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: serrano.dev.esteban@gmail.com
 
 <!---
